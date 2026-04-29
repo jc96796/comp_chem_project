@@ -22,7 +22,7 @@ dx = 10e-9
 dt = dx / (2*c)
 S_c = c * (dt/dx) # Courant number
 q_time = 0
-tot_time = 20000
+tot_time = 10000
 mm = 0
 mn = mm+1
 
